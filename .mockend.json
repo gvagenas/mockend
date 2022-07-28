@@ -1,5 +1,13 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Vdn": {
+    "number": {
+      "string": {}
+    },
+    "tier": {
+      "string": {}
+    },
+    "destination": {
+      "string": {}
+    }
   }
 }
