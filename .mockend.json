@@ -8,6 +8,9 @@
     },
     "destination": {
       "string": {}
+    },
+    "description": {
+      "string": {}
     }
   }
 }
