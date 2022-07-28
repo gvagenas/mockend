@@ -1,34 +1,34 @@
 {
   "vdns": [
     {
-      "destination": "5Oi9HTrgFd",
+      "destination": "7778",
       "id": 1,
-      "number": "TvDOLaTWNE",
-      "tier": "IdGHt4SiUp"
+      "number": "1111",
+      "tier": "Diamond"
     },
     {
-      "destination": "JXMOOXX7qn",
+      "destination": "7778",
       "id": 2,
-      "number": "pwOhf85o5I",
-      "tier": "Ud17MqxZPV"
+      "number": "2323",
+      "tier": "Diamond"
     },
     {
-      "destination": "Jz0jW02Cp6",
+      "destination": "9322",
       "id": 3,
-      "number": "6RO5NmnMit",
-      "tier": "iiSmD9ryxd"
+      "number": "*",
+      "tier": "-"
     },
     {
-      "destination": "sCF6GGZjR1",
+      "destination": "7778",
       "id": 4,
-      "number": "1nIT9U9N4I",
-      "tier": "8X23P8V2Hp"
+      "number": "98787",
+      "tier": "Diamond"
     },
     {
-      "destination": "khSzLHEMGe",
+      "destination": "3322",
       "id": 5,
-      "number": "2VPPnLeZO1",
-      "tier": "UaPDjdlFhV"
+      "number": "67733",
+      "tier": "Diamond"
     }
   ]
 }
