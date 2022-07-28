@@ -5,35 +5,35 @@
       "id": 1,
       "number": "1111",
       "tier": "Diamond",
-      "description": "Diamond tier customer to 1111, will be routed to 7778"
+      "description": "Diamond tier customers, calling to 1111, will be routed to 7778"
     },
     {
       "destination": "7778",
       "id": 2,
       "number": "2323",
       "tier": "Diamond",
-      "description": "Diamond tier customer to 2323, will be routed to 7778"
+      "description": "Diamond tier customers, calling to 2323, will be routed to 7778"
     },
     {
       "destination": "9322",
       "id": 3,
       "number": "*",
       "tier": "-",
-      "description": "Any tier customer to any number, will be routed to 9322"
+      "description": "Any tier customers, calling to any number, will be routed to 9322"
     },
     {
       "destination": "7778",
       "id": 4,
       "number": "98787",
       "tier": "Diamond",
-      "description": "Diamond tier customer to 98787, will be routed to 7778"
+      "description": "Diamond tier customers, calling to 98787, will be routed to 7778"
     },
     {
       "destination": "3322",
       "id": 5,
       "number": "67733",
       "tier": "Diamond",
-      "description": "Diamond tier customer to 67733, will be routed to 3322"
+      "description": "Diamond tier customers, calling to 67733, will be routed to 3322"
     }
   ]
 }
